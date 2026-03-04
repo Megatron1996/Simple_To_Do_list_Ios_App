@@ -41,6 +41,11 @@ This app allows users to manage daily tasks efficiently with a clean and user-fr
 ## 📸 Screenshots
 
 <img width="250" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-04 at 10 05 49" src="https://github.com/user-attachments/assets/238a8649-a56b-4b63-ac10-ccc61b8888ad" />
+<img width="250" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-04 at 10 06 02" src="https://github.com/user-attachments/assets/fcd71289-ddbe-4137-8521-bcbd512407a2" />
+<img width="250" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-04 at 10 06 28" src="https://github.com/user-attachments/assets/66551fa5-76f9-4ba4-9527-de3b9a202dd7" />
+<img width="250" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-04 at 10 07 09" src="https://github.com/user-attachments/assets/b981deb6-dd8f-4ff6-8be0-5ec13a2dad55" />
+
+
 
 
 
